@@ -1,0 +1,15 @@
+PROJECT REDWOOD — BANKER CALL NOTES
+Call with: Jamie Holloway, Greenfield Advisory Partners
+Date: May 14, 2026  |  Duration: ~35 min  |  Attendees: Michael P., Sarah K.
+
+KEY TAKEAWAYS
+
+Revenue / ARR: Jamie confirmed ARR is $18M as of Dec 2025. Mentioned that ~$2M of that is "expansion from two enterprise clients that signed multi-site addons in Q4." Flagged these could be one-time in nature — "we're honest that the Q4 cohort is not yet fully recurring in the traditional sense."
+
+Churn / Retention: NRR of 118% confirmed. Logo churn is "around 6% gross" but Jamie was vague on whether that's annualised. One notable churn: a 15-property operator who left citing product complexity. No other named churns disclosed.
+
+Leverage / Structure: Unitranche at L+550, ~$52M total. Jamie said "net leverage at close will be roughly 4x on forward EBITDA." When pressed on what forward EBITDA assumes, he cited $13M run-rate revenue and 12% EBITDA margin — implying ~$1.6M EBITDA. That math would put net leverage closer to 32x on actual FY25 EBITDA (which is negative).
+
+AI Differentiation: Management is leaning into "AI-native" positioning heavily. Jamie said the lease abstraction model was trained on proprietary data — "it's not just a ChatGPT wrapper." Accuracy benchmarks vs. manual extraction were referenced but not provided on call. Will follow up with a one-pager.
+
+Red Flags Raised by Banker (voluntarily): Q4 revenue spike from two clients — worth checking cohort data carefully. No profitability path detail in CIM beyond "Q3 2026 breakeven" assertion.

@@ -1,0 +1,24 @@
+{
+  "name": "Project Redwood Case Study",
+  "image": "mcr.microsoft.com/devcontainers/python:3.12",
+  "postCreateCommand": "pip install anthropic python-dotenv",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "ms-python.pylance",
+        "github.copilot"
+      ],
+      "settings": {
+        "python.defaultInterpreterPath": "/usr/local/bin/python",
+        "editor.formatOnSave": true
+      }
+    }
+  },
+  "secrets": {
+    "ANTHROPIC_API_KEY": {
+      "description": "Anthropic API key — pre-loaded for this session. Do not share.",
+      "documentationUrl": "https://console.anthropic.com/keys"
+    }
+  }
+}

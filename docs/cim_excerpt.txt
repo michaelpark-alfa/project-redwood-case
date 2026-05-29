@@ -1,0 +1,19 @@
+PROJECT REDWOOD — CONFIDENTIAL INFORMATION MEMORANDUM (EXCERPT)
+Prepared by: Greenfield Advisory Partners  |  April 2026
+
+COMPANY OVERVIEW
+Redwood Software Inc. ("Redwood" or the "Company") is a vertical SaaS platform serving mid-market commercial real estate operators. Founded in 2018, the Company provides AI-assisted lease abstraction, portfolio analytics, and tenant communication tools. Redwood operates on a subscription model with annual contracts and a 90-day implementation cycle.
+
+FINANCIAL SUMMARY (FY 2025)
+Annual Recurring Revenue (ARR): $18.0M
+Revenue Growth (YoY): 34%
+Gross Margin: 71%
+Adjusted EBITDA: ($1.2M) — Company is pre-profitability; management targets breakeven by Q3 2026
+Net Revenue Retention (NRR): 118%
+Customer Count: 142 (up from 104 in FY 2024)
+
+CAPITALIZATION (PRE-TRANSACTION)
+The Company carries no funded debt. Existing equity is held by management (35%) and Series B investors led by Crestwood Ventures (65%). The proposed transaction is a management buyout with unitranche financing. Pro-forma leverage is expected at approximately 4.2x EBITDA — though EBITDA is currently negative, leverage is sized against forward run-rate.
+
+AI PRODUCT NOTE
+Management describes Redwood as "AI-native." The core lease abstraction engine uses a fine-tuned LLM to extract structured data from unstructured lease documents. Per the CIM, AI features account for approximately 40% of new ACV in FY 2025 and are cited as the primary retention driver.

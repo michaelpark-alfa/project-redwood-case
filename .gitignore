@@ -1,0 +1,19 @@
+# Solution files (interviewer only)
+solution/
+
+# macOS
+.DS_Store
+docs/.DS_Store
+
+# Environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Temp Word files
+~$*

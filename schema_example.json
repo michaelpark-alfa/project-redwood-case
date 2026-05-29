@@ -1,0 +1,53 @@
+{
+  "company": "Project Redwood",
+  "generated_at": "2026-05-28T10:00:00Z",
+  "assumptions": [
+    "Forward EBITDA used for leverage calculation as LTM EBITDA is negative",
+    "ARR figure from CIM ($18.0M) used as primary; financials pack shows $18.2M — flagged as inconsistency"
+  ],
+  "sections": {
+    "business_model": {
+      "summary": "string — 2-4 sentences on what the business does and how it makes money",
+      "growth_drivers": ["string", "string"],
+      "one_off_flags": ["string"]
+    },
+    "leverage": {
+      "current_net_debt_usd_m": null,
+      "pro_forma_net_debt_usd_m": 48.0,
+      "ltm_ebitda_usd_m": -1.7,
+      "forward_ebitda_usd_m": 1.6,
+      "net_leverage_ltm": "N/M (negative EBITDA)",
+      "net_leverage_forward": "~30x",
+      "commentary": "string"
+    },
+    "arr_nrr_analysis": {
+      "arr_usd_m": 18.0,
+      "nrr_pct": 118,
+      "gross_logo_churn_pct": 6.3,
+      "red_flags": ["string"],
+      "data_inconsistencies": ["string"]
+    },
+    "risks": [
+      {
+        "risk": "string — short label",
+        "detail": "string — 1-2 sentences",
+        "mitigation": "string"
+      }
+    ],
+    "valuation": {
+      "arr_multiple_implied": 6.1,
+      "comp_range_arr_multiple": "6-9x",
+      "ev_usd_m_implied": 110,
+      "commentary": "string"
+    },
+    "ai_differentiation": {
+      "verdict": "real | marketing | mixed",
+      "evidence_for": ["string"],
+      "evidence_against": ["string"],
+      "summary": "string"
+    },
+    "data_gaps": [
+      "string — each item is a piece of information requested but not found in the docs"
+    ]
+  }
+}

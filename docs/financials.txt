@@ -1,0 +1,39 @@
+PROJECT REDWOOD — FINANCIAL SUMMARY (INTERNAL WORKING FILE)
+Source: Management-provided data pack, received May 2026
+Note: Figures unaudited. Use for diligence purposes only.
+
+ARR BRIDGE (FY 2024 → FY 2025)
+  Beginning ARR (Jan 2025):       $13.4M
+  New Logo ARR:                   + $3.1M
+  Expansion ARR:                  + $2.6M   ← includes two large Q4 enterprise addons
+  Gross Churn:                    - $0.9M
+  Ending ARR (Dec 2025):          $18.2M    ← note: differs slightly from CIM figure of $18.0M
+
+REVENUE (GAAP, FY 2025):         $16.1M    ← recognized revenue lags ARR due to implementation delays
+GROSS PROFIT:                     $11.4M
+GROSS MARGIN:                     70.8%
+S&M EXPENSE:                      $6.2M
+R&D EXPENSE:                      $4.8M
+G&A EXPENSE:                      $2.1M
+ADJUSTED EBITDA:                  ($1.7M)   ← note: differs from CIM; CIM states ($1.2M); difference likely stock-comp add-back
+
+CUSTOMER METRICS
+  Total Customers (Dec 2025):     142
+  Average ACV:                    $128k
+  NRR:                            118%
+  Gross Logo Churn Rate:          6.3% (annualised)
+  CAC Payback Period:             ~22 months
+
+LEVERAGE (PRO-FORMA, AT CLOSE)
+  Total Debt:                     $52M (unitranche)
+  Cash:                           $4M (estimated post-close)
+  Net Debt:                       ~$48M
+  LTM EBITDA:                     Negative — leverage ratio not calculable on LTM basis
+  Forward EBITDA (Mgmt Case):     $1.6M (assumes Q3 2026 breakeven + H2 ramp)
+  Net Leverage (Fwd):             ~30x — management prefers to frame as "4x on run-rate revenue"
+
+COMPARABLE TRANSACTIONS (ROUGH)
+  Vertical SaaS, $10-30M ARR, 2024-2025 deals: 6–9x ARR
+  Implied valuation range: $108M – $162M (at $18M ARR)
+  Deal size implied: ~$110M EV based on debt + equity structure
+  Implied ARR multiple: ~6.1x — low end of range, possibly reflecting pre-profitability discount
