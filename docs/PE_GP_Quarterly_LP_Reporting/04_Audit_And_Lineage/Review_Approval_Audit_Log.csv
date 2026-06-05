@@ -1,8 +1,0 @@
-Timestamp,Workflow Stage,Reviewer,Decision,Notes
-2026-04-24 08:10,Ingestion,Platform,Completed,18 source files classified; 2 extraction exceptions opened
-2026-04-24 10:35,Deal Team Review,A. Rivera,Approved with changes,Pulse EBITDA left as N/D; Lumina gross margin flagged
-2026-04-25 14:20,Fund Accounting / CFO,C. Morgan,Approved,"NAV, TVPI, DPI, RVPI, IRR reconciled to fund admin workbook"
-2026-04-26 09:00,Valuation Committee,Valuation Committee,Approved,Fair value marks approved for LP reporting
-2026-04-27 16:45,IR Review,J. Lee,Approved,Narrative aligned to approved LP style
-2026-04-28 11:25,Legal / Compliance,R. Shah,Approved,"Confidentiality, marketing rule, MNPI controls reviewed"
-2026-04-29 08:30,Managing Partner,E. Hale,Approved,Final release authorized
