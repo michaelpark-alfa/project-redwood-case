@@ -36,7 +36,8 @@ A script (or small service) that:
 1. **Clarifies** missing inputs / states assumptions before running
 2. **Retrieves** relevant context from the `docs/` folder
 3. **Produces** a structured JSON output a UI could render
-4. **Is easy to iterate on** when requirements change mid-way
+4. **Renders** the report in a nicley formatted text
+5. **Is easy to iterate on** when requirements change mid-way
 
 ## Files
 
