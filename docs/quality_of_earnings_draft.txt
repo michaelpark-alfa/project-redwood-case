@@ -1,0 +1,156 @@
+PROJECT REDWOOD — FINANCIAL DUE DILIGENCE: QUALITY OF EARNINGS (DRAFT)
+Prepared by: Halvorsen & Pike LLP, Transaction Advisory Services
+Prepared for: Northbeam Private Credit (prospective lender) and Larchmont Growth Equity
+Draft v0.3 — 12 May 2026 — Subject to completion of procedures. Not for reliance.
+
+CONTENTS
+  1. Scope and basis of preparation
+  2. Summary of key findings
+  3. EBITDA bridge and diligence adjustments
+  4. Annual recurring revenue (ARR) and retention
+  5. Revenue recognition
+  6. Cash flow and liquidity
+  7. Net working capital
+  8. Headcount and operating expenses
+  9. Current trading (Q1 2026, preliminary)
+  10. Open items
+
+----------------------------------------------------------------------
+1. SCOPE AND BASIS OF PREPARATION
+----------------------------------------------------------------------
+We were engaged to perform agreed-upon financial due diligence procedures on Redwood Software Inc. ("Redwood", the "Company") for the twelve months ended 31 December 2025 ("FY25") and the twelve months ended 31 December 2024 ("FY24"). Our procedures were based on the unaudited management accounts, the trial balance export, the ARR schedule maintained by the Revenue Operations team ("ARR schedule v14"), the customer master file, and discussions with the CFO (Raj Menon) and the VP Finance. FY24 financial statements were audited by a regional firm with an unqualified opinion. FY25 statements are unaudited; the audit is expected to complete in June 2026.
+
+We have not audited the information and do not express an opinion. All amounts are in US dollars and rounded to one decimal place in millions unless stated otherwise. Totals may not add due to rounding.
+
+----------------------------------------------------------------------
+2. SUMMARY OF KEY FINDINGS
+----------------------------------------------------------------------
+- Management Adjusted EBITDA of ($1.7M) in the May 2026 data pack reconciles to the ($1.2M) shown in the CIM through a $0.5M stock-based compensation add-back. Both figures are management presentations; neither reflects our diligence adjustments.
+- Diligence-adjusted EBITDA is ($3.0M) after treating capitalised model-development costs as operating expenses and reversing a recruiting-fee add-back (Section 3).
+- Reported ARR at 31 December 2025 of $18.2M includes $0.8M of one-time data-migration and onboarding fees embedded in two Q4 2025 enterprise addenda. Diligence-adjusted recurring ARR is $17.4M (Section 4).
+- Management's 118% net revenue retention (NRR) adds $0.5M of 1 January 2026 price uplifts and excludes $0.16M of "non-controllable" churn. On a standard twelve-month cohort basis NRR is 112.7%; excluding the two Q4 addenda it is 97.8% (Section 4).
+- Management's 6.3% gross logo churn divides FY25 churned logos (9) by ending logos (142). On a beginning-of-period basis it is 8.7% (9 of 104).
+- FY25 free cash flow was ($5.9M). Cash at 31 December 2025 was $6.8M. Preliminary Q1 2026 cash burn was $1.4M (Section 6).
+
+----------------------------------------------------------------------
+3. EBITDA BRIDGE AND DILIGENCE ADJUSTMENTS
+----------------------------------------------------------------------
+Table 3.1 — FY25 EBITDA bridge ($M)
+
+  Reported operating loss                                   (3.4)
+  Depreciation and amortisation                              1.0
+  Reported EBITDA                                           (2.4)
+  Management adjustments:
+    Severance (restructuring of customer-success team)       0.1
+    Recruiting fees (senior hires)                            0.2
+    Sale-process professional fees                            0.4
+  Management Adjusted EBITDA (data pack, May 2026)          (1.7)
+    Stock-based compensation add-back                        0.5
+  Management Adjusted EBITDA (CIM, April 2026)              (1.2)
+
+Diligence adjustments (from data-pack basis):
+    Capitalised software development expensed               (1.1)
+    Reverse recruiting-fee add-back                         (0.2)
+  Diligence-adjusted EBITDA                                 (3.0)
+
+3.2 Capitalised software development. In Q2 2025 the Company changed its capitalisation policy to include machine-learning model training runs, GPU compute for fine-tuning, and third-party data-labelling costs within internally developed software. FY25 capitalised development was $1.1M versus $0.4M in FY24. The policy change is permissible under ASC 350-40 but its effect is to move ~$0.7M of incremental cost out of EBITDA year-on-year. For comparability and for a lender's cash view we present these costs as operating expenses.
+
+3.3 Recruiting fees. Management treats agency fees for senior hires as non-recurring. Redwood grew headcount from 96 to 118 during FY25 and the operating plan assumes further hiring in H2 2026. We consider recruiting fees a recurring cost of a growing business and have reversed the add-back.
+
+3.4 Sale-process fees. We accept the $0.4M add-back for Greenfield Advisory Partners retainer and legal costs associated with the sale process.
+
+----------------------------------------------------------------------
+4. ANNUAL RECURRING REVENUE (ARR) AND RETENTION
+----------------------------------------------------------------------
+4.1 Definition. The Company defines ARR as the annualised value of all contracted subscription fees for signed agreements at the measurement date, including agreements signed but not yet live. Signed-not-live ARR at 31 December 2025 was $1.4M, reflecting the 90-day implementation cycle.
+
+4.2 ARR bridge (per ARR schedule v14, $M)
+
+  ARR 1 January 2025          13.4
+  New logo ARR                 3.1    (47 new logos; 19 signed in Q4)
+  Expansion ARR                2.6    (of which 2.0 from two addenda signed 19 Dec 2025)
+  Gross churn                 (0.9)   (9 logos)
+  ARR 31 December 2025        18.2
+
+The CIM figure of $18.0M was based on the preliminary November 2025 close plus a forecast for December. Management confirmed that $18.2M is the final figure.
+
+4.3 One-time fees inside ARR. The Multi-Site Addenda signed with Meridian Property Group (+$1.2M) and Harborview Commercial Partners (+$0.8M) on 19 December 2025 include one-time data-migration and portfolio-onboarding fees of $0.5M and $0.3M respectively. These fees are invoiced in four quarterly instalments within the first-year subscription line and are therefore captured in the ARR schedule. They will not recur in year two. Diligence-adjusted recurring ARR is $17.4M.
+
+4.4 Net revenue retention. Management's NRR workbook (i) adds $0.5M of contractual price uplifts effective 1 January 2026 to the numerator and (ii) removes $0.16M of churn classified as "non-controllable" (Fieldstone Retail Centers, acquired; Westbrook Office Trust, portfolio sale) from both numerator and denominator: (15.1 + 0.5) / (13.4 - 0.16) = 117.8%, presented as 118%. We consider a standard twelve-month cohort basis more appropriate:
+
+  NRR (management workbook)                                 118%
+  NRR (12-month cohort: (13.4 + 2.6 - 0.9) / 13.4)          112.7%
+  NRR excluding one-time fees ((13.4 + 1.8 - 0.9) / 13.4)   106.7%
+  NRR excluding the two Q4 addenda ((13.4 + 0.6 - 0.9)/13.4) 97.8%
+
+Excluding the two December addenda, the FY25 base contracted modestly. Expansion outside those two accounts was approximately $0.05M per month throughout the year.
+
+4.5 Gross logo churn. 9 customers churned in FY25 with $0.9M of beginning ARR. Management's 6.3% divides by ending logos. Beginning-of-period logo churn is 8.7%; gross dollar churn is 6.7%. Two churned customers (combined $0.16M) cited a move to LeaseLens. One churned customer (Ashgrove Realty, 15 properties, $0.21M) cited product complexity.
+
+4.6 Customer concentration. At 31 December 2025, the largest customer (Meridian Property Group) represented $2.1M or 11.5% of ARR; the second largest (Harborview Commercial Partners) $1.4M or 7.7%. The top ten customers represented 34.1% of ARR (31 December 2024: 30.1%). See customer_master.csv for the full listing.
+
+----------------------------------------------------------------------
+5. REVENUE RECOGNITION
+----------------------------------------------------------------------
+FY25 GAAP revenue was $16.1M (FY24: $12.0M; growth 34%). Subscription revenue is recognised ratably from go-live, not from signature, which explains the gap between ARR and recognised revenue. Implementation services are recognised as delivered. We noted no material cut-off errors in our sample of 25 invoices. The one-time fees in Section 4.3 will be recognised as services revenue over the onboarding period once go-live occurs (Meridian go-live 2 February 2026; Harborview go-live 16 March 2026).
+
+----------------------------------------------------------------------
+6. CASH FLOW AND LIQUIDITY
+----------------------------------------------------------------------
+Table 6.1 — FY25 cash flow ($M)
+
+  Diligence-adjusted EBITDA                         (3.0)
+  Add back capitalised development (cash below)      1.1
+  Change in net working capital                     (0.9)
+  Stock-based compensation (non-cash)                0.5
+  Sale-process fees and severance (cash)            (0.5)
+  Interest and taxes                                (0.1)
+  Other                                             (1.4)
+  Operating cash flow                               (4.3)
+  Capitalised software development                  (1.1)
+  Capital expenditure (GPU servers, office)         (0.5)
+  Free cash flow                                    (5.9)
+
+Cash at 31 December 2025 was $6.8M (31 December 2024: $12.7M, following the 2023 Series B). Average monthly burn in FY25 was approximately $0.49M. Preliminary Q1 2026 burn was $1.4M ($0.47M per month).
+
+The "Other" line includes a $0.6M payment to a GPU cloud provider for reserved capacity and $0.4M of FY24 bonuses paid in Q1 2025.
+
+----------------------------------------------------------------------
+7. NET WORKING CAPITAL
+----------------------------------------------------------------------
+Deferred revenue at 31 December 2025 was $7.9M. Annual billing in advance means Q4 and Q1 collections are seasonally strong. A normalised working capital peg should reflect the December billing peak; we estimate the average trailing-twelve-month NWC at ($5.6M) versus ($6.4M) at year-end. Accounts receivable over 90 days were $0.3M, of which $0.2M relates to a single customer in dispute over SLA credits.
+
+----------------------------------------------------------------------
+8. HEADCOUNT AND OPERATING EXPENSES
+----------------------------------------------------------------------
+Headcount at 31 December 2025 was 118 (FY24: 96): R&D 41, Sales & Marketing 33, Customer Success & Operations 32, G&A 12. Customer Success & Operations includes 19 contract data analysts (based in Manila through an outsourcing partner) who review AI lease extractions for Enterprise-tier customers. Their cost ($0.9M) sits in cost of revenue.
+
+S&M expense was $6.2M, R&D $4.8M (net of capitalisation) and G&A $2.1M. GPU and inference compute costs within cost of revenue rose from $0.4M to $0.9M.
+
+Management's CAC payback of ~22 months uses blended FY25 new and expansion ARR at gross margin. On new-logo ARR only, and reflecting the average 19% discount granted to the 19 Q4 2025 new logos, we calculate ~29 months.
+
+----------------------------------------------------------------------
+9. CURRENT TRADING (Q1 2026, PRELIMINARY, UNAUDITED)
+----------------------------------------------------------------------
+  ARR 31 December 2025                  $18.2M
+    New logos (6)                       +$0.35M
+    Contractual price uplifts (1 Jan)   +$0.50M
+    Churn (2 logos)                     -$0.14M
+    Renewal contraction                 -$0.41M
+  ARR 31 March 2026                     $18.5M
+  Q1 2026 Management Adjusted EBITDA    ($0.6M)  vs budget ($0.3M)
+  Q1 2026 new logos                     6
+  Q1 2026 churned logos                 2  ($0.14M ARR)
+  Cash 31 March 2026                    $5.4M
+
+Renewal contraction reflects price concessions granted at renewal to 9 customers; 7 of them presented competing LeaseLens quotes. Management's monthly KPI pack does not show contraction as a separate line; it is netted within expansion.
+
+Management's plan to reach monthly EBITDA breakeven in Q3 2026 assumes a 9% reduction in operating expenses from June 2026 and ARR of $20.4M by September 2026. Q1 2026 was behind budget on EBITDA by $0.3M. The FY25 budget approved by the Board in December 2024 targeted breakeven in Q1 2026.
+
+----------------------------------------------------------------------
+10. OPEN ITEMS
+----------------------------------------------------------------------
+- Confirmation of whether Meridian Property Group has exercised, or waived, the termination-for-convenience right in its December 2025 addendum. Management states "no notice received". We have requested written confirmation and any side letters.
+- Countersignature date of the Harborview addendum (the March 2026 data pack excluded it pending countersignature).
+- FY25 audit completion and any audit adjustments to capitalised development.
+- Monthly ARR schedule reconciliation to billing system for Q1 2026.

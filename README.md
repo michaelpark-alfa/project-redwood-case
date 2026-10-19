@@ -43,15 +43,24 @@ A script (or small service) that:
 
 ```
 /project-redwood-case/
-├── README.md               ← you are here
-├── docs/
-│   ├── cim_excerpt.txt     ← CIM summary (~200 words)
-│   ├── banker_call.txt     ← call notes (~200 words)
-│   └── financials.txt      ← financial data table (~200 words)
-├── schema_example.json     ← suggested output structure (optional hint)
-├── starter.py              ← start here
-└── .env.example            ← copy to .env and add your API key
+├── README.md                    ← you are here
+├── docs/                        ← data room export (~160 files, ~60k tokens)
+│   ├── cim_excerpt.txt          ← CIM summary
+│   ├── banker_call.txt          ← banker call notes
+│   ├── financials.txt           ← management data pack (May 2026)
+│   ├── *.txt                    ← diligence reports, transcripts, minutes, term sheet, research
+│   ├── customer_master.csv      ← one row per customer, FY25 ARR movements
+│   └── contracts/               ← 142 contract abstracts, one per active customer
+├── schema_example.json          ← suggested output structure (optional hint)
+├── starter.py                   ← start here
+└── .env.example                 ← copy to .env and add your API key
 ```
+
+### About the data room
+
+- The analyst's real data rooms are 10–50x this size and change daily. Design retrieval so it still works when the whole room does not fit in one prompt.
+- Data rooms are messy. Expect superseded drafts and material that has nothing to do with this deal.
+- Some answers sit in one line of one file out of 142. The analyst will ask you where each number came from.
 
 ## Success Criteria
 

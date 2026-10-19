@@ -1,0 +1,19 @@
+REDWOOD SOFTWARE INC. — CONTRACT ABSTRACT
+Prepared by: Redwood Legal Ops (data room upload, May 2026)
+Contract ID: RW-C-0032
+
+CUSTOMER: Oakmont Capital Properties
+SEGMENT: SMB (<10)  |  Properties under subscription: 6
+MASTER SUBSCRIPTION AGREEMENT signed: 2025-06  |  Current term: 3 year(s), annual billing in advance
+RENEWAL: Auto-renews for successive 12-month terms unless 60 days' notice
+NEXT RENEWAL DATE: 2028-06-01
+MODULES: Lease Abstraction (AI), Tenant Communications, Portfolio Analytics
+CONTRACTED ANNUAL FEES (Dec 2025): $76,000
+LIST-PRICE DISCOUNT: 5%
+TERMINATION FOR CONVENIENCE: None
+MOST-FAVOURED-NATION PRICING: No
+CHANGE OF CONTROL: Standard; no consent required
+AI / DATA USE: Customer grants Redwood a non-exclusive licence to use de-identified Customer Documents to train and improve Redwood's models (Section 9.4).
+SLA: Commercially reasonable efforts; no service credits
+HUMAN REVIEW: Customer reviews flagged extractions
+GOVERNING LAW: Florida

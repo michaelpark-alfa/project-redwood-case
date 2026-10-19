@@ -1,0 +1,19 @@
+REDWOOD SOFTWARE INC. — CONTRACT ABSTRACT
+Prepared by: Redwood Legal Ops (data room upload, May 2026)
+Contract ID: RW-C-0071
+
+CUSTOMER: Overlook Holdings
+SEGMENT: SMB (<10)  |  Properties under subscription: 6
+MASTER SUBSCRIPTION AGREEMENT signed: 2022-01  |  Current term: 3 year(s), annual billing in advance
+RENEWAL: Auto-renews for successive 12-month terms unless 60 days' notice
+NEXT RENEWAL DATE: 2027-01-01
+MODULES: Lease Abstraction (AI), Portfolio Analytics, Tenant Communications
+CONTRACTED ANNUAL FEES (Dec 2025): $64,000
+LIST-PRICE DISCOUNT: 0%
+TERMINATION FOR CONVENIENCE: None
+MOST-FAVOURED-NATION PRICING: No
+CHANGE OF CONTROL: Standard; no consent required
+AI / DATA USE: Customer grants Redwood a non-exclusive licence to use de-identified Customer Documents to train and improve Redwood's models (Section 9.4).
+SLA: 99.5% monthly uptime; service credits capped at 10% of monthly fees
+HUMAN REVIEW: Standard — low-confidence fields flagged for customer review
+GOVERNING LAW: Massachusetts

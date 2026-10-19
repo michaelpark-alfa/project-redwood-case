@@ -1,0 +1,49 @@
+REDWOOD SOFTWARE INC.
+MINUTES OF A MEETING OF THE BOARD OF DIRECTORS
+Held: 11 December 2025, 14:00–16:45 ET, by video conference
+
+Present:
+  Dana Whitlock (Chief Executive Officer, Director)
+  Tom Achebe (Co-founder and Chief Technology Officer, Director)
+  Elena Voss (Partner, Crestwood Ventures, Director)
+  Marcus Lind (Crestwood Ventures, Director)
+  Priya Natarajan (Independent Director, Chair of Audit Committee)
+In attendance:
+  Raj Menon (Chief Financial Officer)
+  Sofia Delgado (Chief Revenue Officer) — items 3 and 4 only
+  Company Secretary (minutes)
+
+1. QUORUM AND CONFLICTS
+A quorum was present. Ms Voss and Mr Lind declared their interest as representatives of Crestwood Ventures, the majority shareholder, in item 6 (strategic process). Mr Whitlock and Mr Achebe declared their interest as members of the management buyout group in item 6.
+
+2. MINUTES OF THE PREVIOUS MEETING
+The minutes of the meeting held on 18 September 2025 were approved.
+
+3. FY25 TRADING UPDATE AND FY26 BUDGET
+Mr Menon presented the November management accounts. ARR at 30 November 2025 was $15.9M against the FY25 budget of $17.5M. FY25 Adjusted EBITDA is forecast at approximately ($1.7M) against a budget of ($0.4M).
+
+Mr Menon noted that the FY25 budget approved in December 2024 had targeted monthly EBITDA breakeven in Q1 2026. On the current forecast, breakeven is not achievable before Q3 2026, and only if (a) the two enterprise expansions discussed under item 4 are signed, and (b) operating expenses are reduced by approximately 9% from mid-2026. Ms Natarajan asked whether Q3 2026 was a base case or a stretch case. Mr Menon said it was "achievable but with limited margin for error".
+
+The Board approved the FY26 budget in principle, subject to a revised cost plan to be presented in February 2026. The Board approved a hiring freeze for H1 2026 except for R&D and Customer Success roles directly tied to enterprise onboarding.
+
+4. COMMERCIAL UPDATE
+Ms Delgado presented the Q4 pipeline. The average sales cycle has lengthened from approximately four months in FY23 to seven months. Two customers churned to LeaseLens in Q2 2025, LeaseLens won several competitive new-logo evaluations, and LeaseLens is quoting 30–40% below Redwood list price for comparable lease-abstraction scope.
+
+Year-end pricing authority. Ms Delgado reported that, to support year-end ARR ahead of the strategic process, the sales team had offered new-logo discounts of up to 22% on 13 contracts signed in October and November 2025, above the current authority of 10%. She requested ratification of those discounts and authority to offer discounts of up to 25% on contracts signed by 31 December 2025. Ms Natarajan noted that the discounts had been granted before Board approval and asked that the matter be recorded as a control exception. She cautioned that discounted cohorts should be tracked separately so that renewal pricing risk is visible. The Board ratified the October and November discounts and approved the request, with discounts above 15% to be reported to the Audit Committee.
+
+Enterprise addenda. Ms Delgado reported that Meridian Property Group and Harborview Commercial Partners are in final negotiation for multi-site expansions with combined annual value of approximately $2.0M, including one-time migration and onboarding fees. Meridian has requested a right to terminate the addendum for convenience within 90 days of go-live, because the expansion covers regions that have not yet used Redwood and Meridian's new COO wishes to "treat it as a pilot". Mr Lind asked whether the opt-out would affect how the addendum is counted in ARR. Mr Menon said the Company's ARR policy counts signed agreements and that the opt-out would be disclosed in diligence. Ms Natarajan asked that the opt-out be disclosed in the CIM. The Board approved the Meridian terms, including the 90-day opt-out, noting that it is important to sign both addenda before the 31 December measurement date used in the strategic process.
+
+5. PRODUCT AND TECHNOLOGY
+Mr Achebe reported that the migration of the lease-abstraction engine from a third-party LLM API to a self-hosted, fine-tuned open-weight model was completed in August 2025. The migration reduced per-lease inference cost by approximately 60% but was followed by a period of elevated incidents in Q3. The tenant-communications module continues to use a third-party LLM API; there is no plan to migrate it in FY26.
+
+Mr Achebe reported that GPU costs are running approximately 2.3x the FY25 budget, due to fine-tuning runs and the proof-of-concept backfills prepared for Meridian and Harborview ahead of signing. He confirmed that ground leases and lease amendments remain the weakest document types, and that the Enterprise tier relies on the Manila analyst team to review every extraction.
+
+Ms Voss asked about the defensibility of the model given LeaseLens's recent funding. Mr Achebe said the main advantage was the training corpus, but acknowledged that "a meaningful part of the corpus is public EDGAR filings, which anyone can use". He also noted that some enterprise customers have restricted the use of their documents for training, and that legal is reviewing data lineage.
+
+6. STRATEGIC PROCESS
+Mr Whitlock reported that Greenfield Advisory Partners has been engaged as sell-side adviser. The CIM is expected to be distributed in April 2026, based on 31 December 2025 figures. Management, with Larchmont Growth Equity, intends to submit a proposal for a management buyout financed in part by unitranche debt. The Crestwood directors and Ms Natarajan will form a special committee to evaluate any management proposal. Ms Natarajan will chair the special committee.
+
+7. ANY OTHER BUSINESS
+None. The meeting closed at 16:45.
+
+Signed: ____________________  Chair

@@ -1,0 +1,77 @@
+PROJECT REDWOOD — MANAGEMENT PRESENTATION
+Transcript (auto-generated, lightly corrected by Greenfield Advisory Partners)
+Date: 28 April 2026  |  Format: in person, Greenfield offices, New York  |  Duration: 2 hours 10 minutes
+Presenters: Dana Whitlock (CEO), Tom Achebe (Co-founder & CTO), Raj Menon (CFO), Sofia Delgado (CRO)
+Audience: prospective lenders and co-investors
+Note: Q&A attributed to "Participant" to protect the identity of attending firms.
+
+----------------------------------------------------------------------
+PART 1 — COMPANY OVERVIEW (Dana Whitlock)
+----------------------------------------------------------------------
+WHITLOCK: Thanks, everyone, for coming. I'll start with why Redwood exists. Commercial real estate runs on leases, and lease data is a mess. A typical mid-market operator has a few thousand leases and amendments, spread across PDFs, scanned documents and spreadsheets. When that data is wrong, people miss rent escalations, miss option dates, and report the wrong numbers to their lenders. We built Redwood to fix that.
+
+We have three products. Lease Abstraction, which is our AI engine — it reads every lease and turns it into structured data. Portfolio Analytics, which sits on top of that data. And Tenant Communications, which automates notices and reconciliation letters to tenants. Customers almost always start with Abstraction and expand into the other two.
+
+We sell annual subscriptions, priced per property per month, with a 90-day implementation. We ended 2025 with $18.2 million of ARR, 142 customers, 34% growth, and net revenue retention of 118%. Gross margin is 71%.
+
+I want to be clear about one thing: we are an AI-native company. AI is not a feature we bolted on. Our model is fully proprietary — we own every weight — and it's trained on the largest corpus of commercial leases in the industry.
+
+----------------------------------------------------------------------
+PART 2 — TECHNOLOGY (Tom Achebe)
+----------------------------------------------------------------------
+ACHEBE: Our extraction engine is now at version 3.2. In our latest benchmark it hits 94% field-level accuracy against 89% for professional manual abstraction, and it does a lease in minutes rather than hours. We moved the whole engine onto our own infrastructure last year, which cut our inference cost per lease by more than half.
+
+The moat is the data. We've processed hundreds of thousands of lease documents for our customers, and every correction our customers make feeds back into the model. That flywheel is very hard for a new entrant to copy.
+
+PARTICIPANT: Is the model trained from scratch?
+
+ACHEBE: We start from a strong open-weight foundation and then do a lot of proprietary fine-tuning on our corpus. The fine-tuned weights are ours.
+
+PARTICIPANT: How much of the corpus is customer data versus public data?
+
+ACHEBE: It's a mix. There's a meaningful amount of public data from filings in there, which is great for coverage. The customer data is where the edge cases come from.
+
+PARTICIPANT: And for enterprise customers, is anyone reviewing the output?
+
+ACHEBE: For enterprise we offer a white-glove tier where our analysts review the output. That's a premium service. The vast majority of fields go straight through.
+
+----------------------------------------------------------------------
+PART 3 — GO-TO-MARKET (Sofia Delgado)
+----------------------------------------------------------------------
+DELGADO: AI is now driving more than half of our new bookings. Customers come to us for AI abstraction and then expand. In 2025 we added 47 new logos, a record, and we closed two major enterprise expansions in Q4 with Meridian and Harborview, which shows the land-and-expand model working at scale.
+
+Our customer base is very well diversified. No single customer is above 8% of ARR, and the top ten are under a quarter of the base.
+
+PARTICIPANT: What are you seeing competitively?
+
+DELGADO: LeaseLens shows up at the low end. They're a point solution with a cheaper price. When customers want the full platform and enterprise-grade accuracy, we win. Our gross logo churn is about 6%, which is best-in-class for the segment.
+
+PARTICIPANT: Did you discount to get the Q4 numbers?
+
+DELGADO: We ran a year-end promotion, as most SaaS companies do. Nothing unusual.
+
+----------------------------------------------------------------------
+PART 4 — FINANCIALS (Raj Menon)
+----------------------------------------------------------------------
+MENON: FY25 GAAP revenue was $16.1 million. Adjusted EBITDA was negative $1.2 million, an improvement in margin terms over FY24. We have a clear plan to reach monthly EBITDA breakeven in Q3 2026 and we're on track.
+
+Q1 2026 trading: ARR at the end of March was $18.6 million, up from $18.2 million in December. Headcount is 121.
+
+PARTICIPANT: On track for Q3 breakeven — how did Q1 come in against budget?
+
+MENON: Broadly in line. There was some timing on hiring and on GPU costs from the onboarding projects, which we expect to reverse.
+
+PARTICIPANT: What's the leverage at close?
+
+MENON: About 4x, sized on forward run-rate. We're comfortable with that given the recurring nature of the revenue and the cash we generate from annual billing in advance.
+
+PARTICIPANT: The Meridian addendum — are there any special terms?
+
+MENON: It's a standard multi-site expansion. They are rolling it out region by region. Everything will be disclosed in the data room.
+
+----------------------------------------------------------------------
+PART 5 — CLOSING (Dana Whitlock)
+----------------------------------------------------------------------
+WHITLOCK: To sum up: a category leader in AI lease intelligence, $18 million of ARR, 118% NRR, a clear path to profitability in Q3, and a management team that's putting its own money back into the business. We think this is a great credit and we look forward to working with you.
+
+[END OF TRANSCRIPT]

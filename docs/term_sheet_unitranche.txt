@@ -1,0 +1,71 @@
+PROJECT REDWOOD — SUMMARY OF INDICATIVE TERMS
+Senior Secured Unitranche Facility
+Lead Arranger and Agent: Northbeam Private Credit
+Draft 4 — 20 May 2026 — Subject to credit committee approval, satisfactory due diligence and definitive documentation. This summary is not a commitment to lend.
+
+1. TRANSACTION OVERVIEW
+Borrower:            Redwood Software Inc.
+Parent / Guarantor:  Redwood Holdco LLC (newly formed by Larchmont Growth Equity and management)
+Transaction:         Management buyout of Redwood from existing shareholders, including Crestwood Ventures.
+Sponsor:             Larchmont Growth Equity (first-time sponsor of a Northbeam unitranche)
+
+2. SOURCES AND USES ($M, estimated at close)
+
+  Sources                                Uses
+  Unitranche term loan        52.0       Purchase of equity               105.0
+  Rollover equity (mgmt)      12.0       Transaction fees and expenses      3.0
+  Rollover equity (Crestwood) 18.0       OID (2.0% of term loan)            1.0
+  New equity (Larchmont)      28.0       Cash to balance sheet              1.0
+  Total                      110.0       Total                            110.0
+
+Pro forma cash at close is estimated at approximately $4.0M (balance-sheet cash of ~$3.0M at the expected close in August 2026, plus $1.0M from the transaction). Implied enterprise value: ~$110M. Equity contribution: 52.7% of total capitalisation.
+
+3. FACILITIES
+Term Loan:          $52.0M, fully drawn at close.
+Revolving Facility: $5.0M, undrawn at close. Available for working capital and general corporate purposes.
+Maturity:           Term Loan 6 years from close; Revolver 5 years.
+Amortisation:       1.0% per annum, paid quarterly; balance at maturity.
+
+4. PRICING
+Interest:           Term SOFR + 5.50% per annum, with a 1.00% SOFR floor.
+PIK toggle:         For the first 8 full fiscal quarters after close, the Borrower may elect to pay up to 2.50% of the margin in kind (capitalised to principal).
+OID:                2.0%.
+Undrawn fee:        0.50% on the Revolver.
+Call protection:    102 in year 1, 101 in year 2, par thereafter.
+Indicative 3-month Term SOFR as of 20 May 2026: 4.30%. Illustrative all-in cash coupon at close: 9.80% (7.30% if the full PIK toggle is elected).
+
+5. FINANCIAL COVENANTS
+(a) Recurring Revenue Leverage (tested quarterly until conversion):
+    Total Debt / Recurring Revenue not to exceed:
+      Close to Q4 2026        3.25x
+      Q1 2027 – Q2 2027       3.00x
+      Q3 2027 – Q4 2027       2.75x
+    "Recurring Revenue" means the annualised value of contracted subscription fees from customers that are live or scheduled to go live within 90 days, EXCLUDING implementation, onboarding, data-migration and other one-time fees, and EXCLUDING any contract (or addendum) under which the customer has delivered notice of termination.
+
+(b) Conversion: from the first test date after 31 December 2027 (or earlier at the Borrower's election once LTM EBITDA exceeds $6.0M), the Recurring Revenue Leverage covenant is replaced by Total Net Leverage (Total Debt less unrestricted cash / LTM Consolidated EBITDA) not to exceed 7.00x, stepping down by 0.50x every two quarters to 5.50x.
+
+(c) Minimum Liquidity: unrestricted cash plus undrawn Revolver commitments of not less than $3.0M at all times, tested monthly.
+
+(d) Equity cure: up to 4 cures over the life of the facility, not more than 2 in any 4 consecutive quarters.
+
+6. CONSOLIDATED EBITDA DEFINITION (KEY POINTS)
+Add-backs for stock-based compensation, transaction costs and restructuring costs are permitted. Run-rate cost savings are permitted up to 15% of EBITDA (before such add-back), realisable within 12 months. Capitalised software development costs are NOT deducted.
+
+7. OTHER KEY TERMS
+- Security: first-priority lien on substantially all assets, including IP and pledged equity.
+- Reporting: monthly ARR schedule and KPI pack within 30 days of month-end; quarterly financials within 45 days; annual audited financials within 120 days.
+- Change of control: an Event of Default.
+- Conditions precedent include: receipt of all material third-party consents (including customer change-of-control consents identified in legal diligence), final quality of earnings report, and no Material Adverse Change.
+
+8. ILLUSTRATIVE CREDIT STATISTICS AT CLOSE (arranger estimates)
+  Total Debt                                    $52.0M
+  Net Debt (assuming $4.0M cash)                $48.0M
+  ARR (management, 31 Dec 2025)                 $18.2M
+  Recurring Revenue (diligence-adjusted)        $17.4M
+  Total Debt / Recurring Revenue                 2.99x  (covenant 3.25x; ~8% headroom)
+  Annual cash interest (no PIK)                 ~$5.1M
+  Annual cash interest (full PIK election)      ~$3.8M
+  Forward EBITDA (management case, run-rate)    $1.6M
+  Forward cash interest cover (no PIK)          ~0.3x
+
+Note: Under 5(a), loss of approximately $1.4M of Recurring Revenue (for example, termination of the Meridian addendum net of its one-time fee component, plus modest churn) would reduce headroom to approximately zero at close.

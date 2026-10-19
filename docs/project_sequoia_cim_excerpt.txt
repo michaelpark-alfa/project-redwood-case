@@ -1,0 +1,36 @@
+PROJECT SEQUOIA — CONFIDENTIAL INFORMATION MEMORANDUM (EXCERPT)
+Prepared by: Greenfield Advisory Partners  |  March 2026
+
+COMPANY OVERVIEW
+Sequoia Health Systems Inc. ("Sequoia" or the "Company") is a vertical SaaS platform for revenue-cycle management at independent physician groups and ambulatory surgery centres. Founded in 2016, the Company provides AI-assisted medical coding, claims scrubbing, denial management and patient billing tools. Sequoia operates on a subscription model with multi-year contracts and a 120-day implementation cycle, plus a usage-based fee per claim processed.
+
+FINANCIAL SUMMARY (FY 2025)
+Annual Recurring Revenue (ARR): $24.5M
+Revenue Growth (YoY): 21%
+Gross Margin: 66%
+Adjusted EBITDA: $3.1M — Company has been EBITDA-positive since FY 2023
+Net Revenue Retention (NRR): 109%
+Gross Logo Churn: 4.1% (annualised)
+Customer Count: 61 groups (up from 54 in FY 2024)
+
+ARR BRIDGE (FY 2024 → FY 2025)
+  Beginning ARR:      $20.2M
+  New Logo ARR:       + $2.5M
+  Expansion ARR:      + $2.7M
+  Gross Churn:        - $0.9M
+  Ending ARR:         $24.5M
+
+CAPITALIZATION (PRE-TRANSACTION)
+The Company has a $6.0M term loan from a regional bank, repaid at close. Existing equity is held by the founders (48%) and a growth equity investor (52%). The proposed transaction is a sponsor-led buyout with unitranche financing of approximately $17M. Pro-forma net leverage is expected at approximately 5.5x Adjusted EBITDA.
+
+AI PRODUCT NOTE
+Management describes Sequoia as "AI-native". The coding assistant uses a large language model to suggest CPT and ICD-10 codes from clinical notes; coders accept or edit suggestions. Per the CIM, AI-assisted coding is used on approximately 70% of claims processed and has reduced first-pass denial rates from 11% to 7%. Management notes that the coding model uses a third-party LLM API with a retrieval layer over payer rules; it is not fine-tuned.
+
+KEY RISKS IDENTIFIED BY THE COMPANY
+- Reimbursement policy changes (CMS physician fee schedule).
+- Concentration: largest customer represents 9% of ARR; top 10 represent 38%.
+- Dependency on a single clearinghouse partner for claims submission.
+- Regulatory: HIPAA compliance; the Company holds HITRUST certification.
+
+VALUATION GUIDANCE
+Greenfield expects bids in the range of 7–9x ARR, reflecting positive EBITDA and a Rule of 40 score of 34.

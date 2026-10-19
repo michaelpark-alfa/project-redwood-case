@@ -1,0 +1,54 @@
+GREENFIELD ADVISORY PARTNERS — CRE TECH PULSE
+Quarterly market newsletter  |  Q1 2026  |  For clients and friends of the firm
+This newsletter is general market commentary. It does not relate to any specific mandate.
+
+IN THIS ISSUE
+  1. Market backdrop: office distress meets lender scrutiny
+  2. Funding and M&A round-up
+  3. The AI lease abstraction race
+  4. What buyers are asking in diligence
+  5. Events
+
+----------------------------------------------------------------------
+1. MARKET BACKDROP: OFFICE DISTRESS MEETS LENDER SCRUTINY
+----------------------------------------------------------------------
+US office vacancy ended 2025 at 19.6%, a new high, while retail and industrial vacancy were stable at 6.1% and 7.4% respectively. Roughly $310 billion of CRE debt matures in 2026, and refinancing remains difficult for older office assets. Lenders are asking borrowers for better, more frequent lease-level reporting — rent rolls, option schedules, co-tenancy clauses — which is one reason demand for lease data tools has held up despite pressure on operator budgets.
+
+The flip side: mid-market operators are cutting discretionary technology spend. In our Q4 2025 survey of 120 operators, 41% said they expect to consolidate software vendors in 2026, and 33% said procurement now reviews software purchases above $50,000 that previously sat with asset management teams.
+
+----------------------------------------------------------------------
+2. FUNDING AND M&A ROUND-UP
+----------------------------------------------------------------------
+- LeaseLens raised a $40M Series C in January 2026 at a reported ~$280M post-money valuation. LeaseLens reports more than 900 customers, mostly small operators on self-serve plans, and launched an "Enterprise" tier with SSO and audit logs in March.
+- A CRE investor-reporting platform was acquired by a large property-management software vendor in February 2026 at a reported 10x ARR (strategic buyer).
+- Two lease-administration services firms merged to form a 1,200-person outsourced abstraction business, citing "AI-assisted, human-verified" as their offer.
+- Sponsor activity in sub-$30M ARR vertical SaaS remains steady, with lenders increasingly using recurring-revenue covenants for pre-profitability companies.
+
+----------------------------------------------------------------------
+3. THE AI LEASE ABSTRACTION RACE
+----------------------------------------------------------------------
+Two years ago, AI abstraction was a differentiator. Today, almost every vendor in the category claims it. Leading vendors now report field-level accuracy of 97% or more on standard leases — though methodologies vary widely and few are third-party audited. In our conversations with buyers, three things now separate vendors:
+
+  (a) Performance on hard documents — ground leases, heavily amended leases, poor scans.
+  (b) Workflow and audit trail — can the operator show a lender where each number came from?
+  (c) Data rights — operators, and increasingly their lenders, want assurance that lease data is not used to train models for other customers.
+
+Open-weight models have narrowed the gap between start-ups and established vendors. One CTO told us: "The model is maybe 20% of the value now. The other 80% is the review workflow and the integrations."
+
+----------------------------------------------------------------------
+4. WHAT BUYERS ARE ASKING IN DILIGENCE
+----------------------------------------------------------------------
+From our recent sell-side processes, the most common diligence requests in vertical SaaS are:
+- ARR definitions: whether one-time fees, signed-not-live contracts or pilots are counted.
+- NRR methodology: twelve-month cohort basis versus annualised recent quarters.
+- Year-end cohort quality: discounting and pull-forward ahead of a sale process.
+- AI claims: benchmark methodology, share of human review, model ownership and training-data rights.
+- Customer concentration after large expansions.
+
+----------------------------------------------------------------------
+5. EVENTS
+----------------------------------------------------------------------
+- CRE Tech Summit, Chicago, 9–10 June 2026. Greenfield will host a panel on "Financing pre-profitability SaaS".
+- Greenfield Vertical SaaS Lender Roundtable, New York, 17 September 2026.
+
+Greenfield Advisory Partners is a member of FINRA and SIPC.

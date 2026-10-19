@@ -1,0 +1,19 @@
+REDWOOD SOFTWARE INC. — CONTRACT ABSTRACT
+Prepared by: Redwood Legal Ops (data room upload, May 2026)
+Contract ID: RW-C-0031
+
+CUSTOMER: Stonebridge Property Management
+SEGMENT: SMB (<10)  |  Properties under subscription: 2
+MASTER SUBSCRIPTION AGREEMENT signed: 2020-02  |  Current term: 3 year(s), annual billing in advance
+RENEWAL: Manual renewal; requires signed order form
+NEXT RENEWAL DATE: 2027-02-01
+MODULES: Portfolio Analytics, Lease Abstraction (AI)
+CONTRACTED ANNUAL FEES (Dec 2025): $19,000
+LIST-PRICE DISCOUNT: 5%
+TERMINATION FOR CONVENIENCE: None
+MOST-FAVOURED-NATION PRICING: No
+CHANGE OF CONTROL: Standard; no consent required
+AI / DATA USE: Customer grants Redwood a non-exclusive licence to use de-identified Customer Documents to train and improve Redwood's models (Section 9.4).
+SLA: 99.9% monthly uptime; service credits capped at 15% of monthly fees
+HUMAN REVIEW: Standard — low-confidence fields flagged for customer review
+GOVERNING LAW: Delaware

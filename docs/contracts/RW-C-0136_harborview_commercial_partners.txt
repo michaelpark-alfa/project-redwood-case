@@ -1,0 +1,21 @@
+REDWOOD SOFTWARE INC. — CONTRACT ABSTRACT
+Prepared by: Redwood Legal Ops (data room upload, May 2026)
+Contract ID: RW-C-0136
+
+CUSTOMER: Harborview Commercial Partners
+SEGMENT: Enterprise (150+ properties)  |  Properties under subscription: 162
+MASTER SUBSCRIPTION AGREEMENT signed: 2022-06  |  Current term: 1 year(s), annual billing in advance
+RENEWAL: Auto-renews for successive 12-month terms unless 60 days' notice
+NEXT RENEWAL DATE: 2026-06-01
+MODULES: Lease Abstraction (AI), Portfolio Analytics, Tenant Communications
+CONTRACTED ANNUAL FEES (Dec 2025): $1,400,000
+LIST-PRICE DISCOUNT: 0%
+TERMINATION FOR CONVENIENCE: None
+MOST-FAVOURED-NATION PRICING: No
+CHANGE OF CONTROL: Assignment or change of control of Redwood requires Customer's prior written consent (Section 14.2).
+AI / DATA USE: Agreement is silent on use of Customer Documents for model training. Data-use clause limits processing to 'provision of the Services'.
+SLA: 99.5% monthly uptime; service credits capped at 10% of monthly fees
+HUMAN REVIEW: Enterprise tier — every AI extraction reviewed by Redwood analysts before release
+GOVERNING LAW: Arizona
+AMENDMENTS: Multi-Site Addendum signed 2025-12-19 expanding coverage to additional properties.
+BILLING NOTE: Addendum fees include a one-time data migration and portfolio onboarding fee of $0.3M, invoiced in four quarterly instalments within the first-year subscription line.

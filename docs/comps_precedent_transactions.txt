@@ -1,0 +1,61 @@
+NORTHBEAM PRIVATE CREDIT — RESEARCH NOTE
+Vertical SaaS valuation reference: public comparables and precedent transactions
+Prepared for: Project Redwood IC pack  |  Date: 15 May 2026  |  Analyst: Research desk
+Sources: public filings, press releases, Northbeam deal database, PitchBook (where noted). Company names for private targets are disclosed where public; otherwise anonymised.
+
+1. PUBLIC COMPARABLES (as of 14 May 2026)
+
+  Company (ticker)                 Vertical                   EV ($bn)   EV / NTM Rev   NTM Growth   EBITDA margin   Rule of 40
+  Keystone Realty Software (KRSW)  Property management          8.2         7.4x          18%           24%            42
+  Parcelpoint (PCPT)               CRE data & analytics         3.1         5.9x          14%           19%            33
+  Brightline Health IT (BLHT)      Healthcare RCM               4.6         4.8x          11%           22%            33
+  Tenantly (TNLY)                  Residential leasing          1.2         3.6x          16%           (4%)           12
+  Oakhurst Construction Cloud      Construction                 2.7         6.1x          21%           12%            33
+  Ledgerline (LDGL)                Fund administration          1.9         5.2x          12%           28%            40
+  Median                                                                     5.6x          15%           21%            33
+
+Observations: public vertical SaaS trades at a median 5.6x NTM revenue. Companies with negative EBITDA and Rule of 40 below 20 trade at a discount (Tenantly 3.6x). Public multiples are on revenue, not ARR; for a company growing ~30%, ARR typically exceeds NTM revenue by 5–15%.
+
+2. PRECEDENT TRANSACTIONS — CONTROL DEALS, VERTICAL SAAS, $10–30M ARR (2023–2025)
+
+  Date      Target (vertical)                       Acquirer type        ARR ($M)   EV ($M)   EV / ARR   Growth   EBITDA margin
+  Feb-23    Target A (CRE lease admin)              Sponsor              14         112        8.0x      38%       (6%)
+  Jun-23    Target B (property tax software)        Strategic            22         198        9.0x      25%       11%
+  Nov-23    Target C (facilities maintenance)       Sponsor              17          98        5.8x      22%       (3%)
+  Mar-24    Target D (CRE investor reporting)       Sponsor              26         234        9.0x      29%       14%
+  Jul-24    Target E (hospitality ops)              Sponsor              12          58        4.8x      18%       (12%)
+  Oct-24    Target F (healthcare scheduling)        Strategic            19         143        7.5x      31%        6%
+  Feb-25    Target G (construction bid mgmt)        Sponsor              24         170        7.1x      27%        2%
+  Jun-25    Target H (CRE lease abstraction)        Sponsor              11          64        5.8x      35%       (15%)
+  Sep-25    Target I (property insurance SaaS)      Strategic            28         252        9.0x      20%       18%
+
+  Median EV / ARR (all 9 deals)                                                               7.5x
+  Median EV / ARR (negative EBITDA at signing, 4 deals: A, C, E, H)                           5.8x
+  Range                                                                                       4.8x – 9.0x
+
+Note on sources: the "6–9x ARR" range quoted in the Redwood management data pack appears to correspond to the interquartile range of this set, but includes strategic deals where synergies support higher multiples. For a sponsor-led, pre-profitability buyout the negative-EBITDA subset is the more relevant reference.
+
+3. NOT COMPARABLE — EXCLUDED FROM THE TABLES ABOVE
+- LeaseLens Series C (January 2026): $40M primary raise at a reported post-money valuation of ~$280M, approximately 14x ARR. This is a minority venture round with preferred-stock protections, not a control transaction; we exclude it from valuation references.
+- Project Sequoia (healthcare revenue-cycle SaaS, live Northbeam process, 2026): excluded because it is not a closed transaction.
+
+4. REDWOOD — IMPLIED MULTIPLES
+
+  Implied EV (term sheet sources and uses)                 ~$110M
+  EV / ARR (management, $18.2M)                              6.0x
+  EV / ARR (CIM, $18.0M)                                     6.1x
+  EV / Recurring ARR (QoE-adjusted, $17.4M)                  6.3x
+  EV / FY25 GAAP revenue ($16.1M)                            6.8x
+  Loan-to-value (Total Debt $52M / EV $110M)                47.3%
+
+Interpretation: the entry multiple is in line with the negative-EBITDA precedent median (5.8x) and below the all-deal median (7.5x). Using the negative-EBITDA subset range (4.8x – 8.0x) on QoE-adjusted ARR implies an EV range of approximately $84M – $139M. At the bottom of that range, the $52M unitranche would represent ~62% loan-to-value.
+
+5. SENSITIVITY: EV AT DIFFERENT MULTIPLES AND ARR ($M)
+
+  ARR \ Multiple     4.8x    5.8x    6.3x    7.5x
+  16.0               77      93     101     120
+  17.4               84     101     110     131
+  18.2               87     106     115     137
+  20.4               98     118     129     153
+
+16.0 corresponds to the ARR at which the Recurring Revenue Leverage covenant (3.25x) would be breached; 20.4 is management's September 2026 ARR target.

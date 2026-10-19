@@ -1,0 +1,63 @@
+PRIVILEGED AND CONFIDENTIAL — ATTORNEY WORK PRODUCT
+MEMORANDUM
+
+To:      Northbeam Private Credit — Project Redwood deal team
+From:    Whitcombe Ashby LLP
+Date:    21 May 2026
+Re:      Project Redwood — Legal due diligence: key findings (red-flag report, draft)
+
+I. SCOPE
+We reviewed the documents made available in the virtual data room as of 20 May 2026, including corporate records, the capitalisation table, material customer agreements (142 contract abstracts and 30 full agreements sampled by value), IP assignment records, open-source and model licences, employment and contractor agreements, privacy policies, and litigation records. We did not review agreements with customers below $25,000 of annual value except where contract abstracts flagged non-standard terms. This report addresses only matters we consider material to the lender.
+
+II. SUMMARY OF KEY FINDINGS
+1. Change-of-control consents: 4 customer agreements representing approximately $2.3M of ARR (12.6%) require customer consent to a change of control.
+2. Training-data rights: 21 of 142 active customer agreements (15% by count; approximately $6.9M or 38% of ARR) do not grant Redwood an express right to use customer documents for model training. Data lineage of the training corpus cannot currently be confirmed.
+3. IP assignment gap: two early contractors (2018–2019) did not sign IP assignment agreements.
+4. Most-favoured-nation pricing in 3 customer agreements.
+5. Termination-for-convenience right in the Meridian Property Group Multi-Site Addendum.
+6. One pending privacy complaint (low value).
+
+III. DETAILED FINDINGS
+
+1. Change of control
+The transaction will result in Crestwood Ventures ceasing to hold a majority of the voting equity, which is a change of control under the agreements listed below. Each requires the customer's prior written consent:
+   - Harborview Commercial Partners (RW-C-0136) — $1.4M ARR
+   - Juniper Retail Centers (RW-C-0074)
+   - Vantage Partners (RW-C-0101)
+   - Orchard Office Trust (RW-C-0096)
+Combined ARR approximately $2.3M. No consents have been requested to date. Failure to obtain consent gives the customer a termination right. Receipt of these consents is a condition precedent under the draft term sheet.
+
+2. Training-data rights and data lineage
+Redwood's standard Master Subscription Agreement (2022 onward) grants a non-exclusive licence to use de-identified customer documents to train and improve Redwood's models (Section 9.4). However:
+   - 9 agreements contain a negotiated rider expressly prohibiting the use of customer documents for training, fine-tuning or evaluation of any machine-learning model. These include Meridian Property Group, the largest customer.
+   - 12 agreements are silent; their data-use clauses limit processing to "provision of the Services". 6 are pre-2022 paper. The other 6 (2022–2025, including Harborview Commercial Partners and two November 2025 new logos) used the standard MSA, but Section 9.4 was struck during negotiation. In our view, training a model used for other customers is unlikely to fall within that purpose.
+Redwood's AI benchmark states that ~42% of its ~46,000-document training corpus consists of customer documents "where contractually permitted". Redwood was unable to produce a data-lineage record showing which customers' documents are in the corpus. The CTO stated that documents from restricted customers "should" have been excluded by a filter introduced in 2024, but documents processed before that date may be included in the corpus used to fine-tune model versions 1.x–2.x, on which version 3.x was built.
+Risk: claims for breach of contract by restricted customers; potential requirement to retrain models on a cleaned corpus; reputational risk with enterprise customers whose lenders restrict data use. We recommend a specific indemnity, a covenant to complete a data-lineage audit within 6 months of close, and a representation that the current production model was not trained on documents from customers with a training prohibition.
+
+3. IP assignment
+Two independent contractors engaged in 2018–2019 to build the original document-parsing pipeline did not sign IP assignment agreements. One has since signed a confirmatory assignment (April 2026); the second has not responded. The CTO states that the code they wrote has been "substantially rewritten" since 2022. We consider the residual risk low but recommend a closing deliverable or specific indemnity.
+
+4. Most-favoured-nation pricing
+The following agreements require Redwood to offer the customer any lower per-property price granted to a comparable customer:
+   - Bluestone Partners (RW-C-0011)
+   - Harlow Capital Properties (RW-C-0079)
+   - Alder Asset Management (RW-C-0128)
+The Q4 2025 year-end discounts (up to 22%) may have triggered these clauses. Redwood has not assessed whether any MFN obligation has arisen. Potential exposure is a price reduction on these contracts; we estimate this would be below $0.1M of ARR, but it is a precedent risk if LeaseLens competition forces further discounting.
+
+5. Meridian Property Group — termination for convenience
+The Multi-Site Addendum dated 19 December 2025 allows Meridian to terminate the addendum for convenience on 30 days' notice within 90 days after go-live. Go-live was 2 February 2026, so the window ran to approximately 3 May 2026. Management states that no notice was received. We have not seen any extension or side letter, but we note a reference in the deal team's customer call notes to an evaluation "extended until the end of June". We recommend obtaining a written confirmation from Meridian, or a bring-down representation at closing.
+
+6. Litigation and privacy
+- One pending complaint filed with the California Privacy Protection Agency (February 2026) by a tenant of a customer, alleging that the Tenant Communications module processed personal data without adequate notice. Redwood's exposure is as a service provider; the customer has requested indemnification. Estimated exposure below $0.1M.
+- No other pending or threatened litigation above $50,000.
+
+7. Model and open-source licences
+The production lease-abstraction model is a fine-tuned version of an open-weight model distributed under a community licence that permits commercial use for companies below a user threshold, with an acceptable-use policy. Redwood is within the threshold. Redwood owns its fine-tuned weights but not the base model. The Tenant Communications module calls a third-party LLM API under standard commercial terms; customer data sent to the API is not used for training under those terms.
+
+IV. RECOMMENDED CONDITIONS PRECEDENT / PROTECTIONS
+- Change-of-control consents from the 4 customers listed in III.1 (or a pricing adjustment if not obtained).
+- Written confirmation from Meridian on the status of the addendum.
+- Data-lineage audit covenant and specific indemnity for training-data claims.
+- Confirmatory IP assignment from the second contractor, or specific indemnity.
+
+Whitcombe Ashby LLP

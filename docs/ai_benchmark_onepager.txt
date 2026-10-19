@@ -1,0 +1,42 @@
+REDWOOD LEASE INTELLIGENCE ENGINE — ACCURACY BENCHMARK
+Prepared by: Redwood Software Inc. (Product & ML team)
+Distributed by: Greenfield Advisory Partners, 19 May 2026 (follow-up to banker call of 14 May 2026)
+Confidential — for evaluation of the proposed transaction only
+
+HEADLINE
+Redwood's fine-tuned lease abstraction model achieves 94.1% field-level accuracy across 38 critical lease fields, versus 88.7% for manual abstraction by a professional outsourced abstraction team.
+
+METHODOLOGY
+- Test set: 250 commercial leases selected by the Redwood ML team from customer portfolios (with customer permission), covering office (140), retail (80) and industrial (30) leases executed between 2009 and 2024.
+- Fields: 38 critical fields including commencement and expiry dates, base rent schedule, escalations, renewal and termination options, CAM provisions, security deposit and assignment clauses.
+- Ground truth: dual-keyed abstraction by two senior Redwood lease analysts, with disagreements resolved by a third.
+- Manual comparison: the same 250 leases abstracted by an outsourced abstraction vendor at standard turnaround (5 business days).
+- Measure: a field is "correct" if it exactly matches ground truth after normalisation (date formats, currency).
+
+RESULTS
+
+  Document type     Leases   Redwood model   Manual vendor
+  Office              140        95.6%           89.4%
+  Retail               80        93.2%           88.1%
+  Industrial           30        89.8%           87.3%
+  All                 250        94.1%           88.7%
+
+  Median time per lease:   Redwood model 4 minutes (incl. review of flagged fields)
+                           Manual vendor 2.5 hours
+
+MODEL
+- Architecture: an open-weight 8-billion-parameter language model, fine-tuned by Redwood for lease extraction, plus a rules layer for date and currency normalisation. Hosted on Redwood-managed GPU infrastructure since August 2025.
+- Training corpus: approximately 46,000 commercial lease documents and amendments. Approximately 58% are public lease exhibits from SEC EDGAR filings; approximately 42% are customer documents "where contractually permitted".
+- Confidence scoring: every field receives a calibrated confidence score; fields below threshold (currently ~20% of fields) are routed to human review.
+
+WHY IT MATTERS
+- AI features were included in deals representing approximately 40% of new ACV in FY 2025 (CIM).
+- Customers using Lease Abstraction have gross logo churn materially below the company average.
+
+LIMITATIONS AND NOTES
+- The test set was selected by Redwood and has not been validated by a third party.
+- Ground leases, leases with more than three amendments, and documents with OCR quality below Redwood's internal threshold were excluded from the test set. Management estimates these represent approximately 15–20% of documents in a typical mid-market portfolio, and a higher share for enterprise portfolios.
+- Accuracy for the Enterprise tier is reported after 100% human review and is therefore not comparable to the figures above.
+- Benchmark run in March 2026 on model version 3.2.
+
+Contact: Tom Achebe, Co-founder & CTO
