@@ -1,0 +1,19 @@
+REDWOOD SOFTWARE INC. — CONTRACT ABSTRACT
+Prepared by: Redwood Legal Ops (data room upload, May 2026)
+Contract ID: RW-C-0110
+
+CUSTOMER: Pinecrest Capital Properties
+SEGMENT: Mid-market (10-49)  |  Properties under subscription: 12
+MASTER SUBSCRIPTION AGREEMENT signed: 2023-12  |  Current term: 2 year(s), annual billing in advance
+RENEWAL: Auto-renews for successive 12-month terms unless 60 days' notice
+NEXT RENEWAL DATE: 2026-12-01
+MODULES: Portfolio Analytics, Tenant Communications, Lease Abstraction (AI)
+CONTRACTED ANNUAL FEES (Dec 2025): $138,000
+LIST-PRICE DISCOUNT: 10%
+TERMINATION FOR CONVENIENCE: None
+MOST-FAVOURED-NATION PRICING: No
+CHANGE OF CONTROL: Standard; no consent required
+AI / DATA USE: Agreement is silent on use of Customer Documents for model training. Data-use clause limits processing to 'provision of the Services'.
+SLA: Commercially reasonable efforts; no service credits
+HUMAN REVIEW: Standard — low-confidence fields flagged for customer review
+GOVERNING LAW: Arizona

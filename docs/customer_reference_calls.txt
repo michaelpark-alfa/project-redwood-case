@@ -1,0 +1,61 @@
+PROJECT REDWOOD — CUSTOMER REFERENCE CALL NOTES
+Conducted by: Northbeam Private Credit deal team (Sarah K., Michael P.)
+Dates: 11–13 May 2026
+Note: Reference customers were nominated by Redwood management. Management did not attend the calls. Notes are paraphrased unless in quotation marks.
+
+======================================================================
+CALL 1 — Director of Lease Administration, Meridian Property Group
+12 May 2026, 30 minutes
+======================================================================
+Relationship: Customer since 2021. Original deployment covers the West and Mountain regions. The December 2025 Multi-Site Addendum extends Redwood to the Northeast and Southeast regions (about 110 additional properties).
+
+- Very positive on the original deployment. "Before Redwood we had three people doing nothing but re-keying leases. Now they review exceptions."
+- On the new regions: "Our COO wants us to treat the new regions as a pilot. Honestly the jury is still out — the Southeast portfolio is mostly ground leases and older retail, and the extraction needs a lot of review there."
+- Asked whether the pilot decision has been made: "We've extended the evaluation with Redwood until the end of June. If the numbers work, we keep it. If not, we go back to the old process in those regions."
+- Asked about pricing: "The first year includes a big one-off for migrating the history, so year two should be cheaper for us."
+- Would they renew the original contract? "Yes, the core deployment is sticky."
+
+Deal-team note: The addendum in the data room provides a 90-day termination-for-convenience window from go-live (go-live 2 February 2026, so the window would have closed around 3 May 2026). The customer describes an evaluation extended to end of June. Either a side letter or informal extension exists, or the customer is mistaken. Request side letter / correspondence from management.
+
+======================================================================
+CALL 2 — VP Asset Management, Cedarline Office Trust
+11 May 2026, 25 minutes
+======================================================================
+Relationship: Customer since 2023, 6 office properties.
+
+- Licenses all three modules but uses mainly Lease Abstraction. "We barely touch the analytics — it's built for bigger portfolios than ours."
+- "The AI extraction is good on our standard office leases. It's maybe 90-plus percent right on the first pass, and the confidence flags tell us where to look."
+- Renewal coming up in Q3 2026. "We got a LeaseLens quote that was about a third cheaper. We'll probably stay because switching costs are real — we've built our reporting on Redwood — but we'll push hard on price."
+- No major service issues. Noted slower support response in late 2025.
+
+======================================================================
+CALL 3 — COO, Larkspur Capital Properties
+13 May 2026, 20 minutes
+======================================================================
+Relationship: New customer, signed November 2025, 17 retail centres, went live February 2026.
+
+- Bought primarily for Tenant Communications (automated notices, CAM reconciliation letters). "The AI-drafted tenant letters save my team hours every month."
+- On why they chose Redwood: "Honestly it was the year-end pricing. They gave us a very good first-year deal."
+- Asked about lease abstraction: "It's fine. We had to correct a fair amount on our older leases with lots of amendments."
+- Expects to renew if pricing stays "roughly where it is".
+
+======================================================================
+CALL 4 — Head of Portfolio Operations, Overlook REIT
+13 May 2026, 30 minutes
+======================================================================
+Relationship: Customer since 2019, 17 properties (office and medical office).
+
+- Long-standing customer; sees Redwood as "the system of record for lease data".
+- Values the review workflow: "Anything the model isn't sure about gets flagged and our team checks it. I wouldn't take raw model output into our debt compliance reporting."
+- On "AI-native": "Their AI is good, but the real value for us is the workflow and the audit trail. If they swapped the model out tomorrow I wouldn't notice."
+- Concern: they restricted Redwood from using their leases to train models when they renewed in 2023. "Our lenders didn't want our lease data in anyone's training set."
+
+======================================================================
+SUMMARY OF THEMES (deal team)
+======================================================================
+1. Core product is sticky; customers describe Redwood as a system of record.
+2. Price pressure from LeaseLens is visible at renewal for mid-market accounts.
+3. Value is perceived in workflow + human review more than in the model itself.
+4. Meridian expansion is a pilot whose outcome is not yet known (end of June 2026).
+5. Q4 2025 new logos were won partly on first-year pricing.
+6. At least some customers restrict training-data use.

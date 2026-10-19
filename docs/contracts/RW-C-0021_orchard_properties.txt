@@ -1,0 +1,19 @@
+REDWOOD SOFTWARE INC. — CONTRACT ABSTRACT
+Prepared by: Redwood Legal Ops (data room upload, May 2026)
+Contract ID: RW-C-0021
+
+CUSTOMER: Orchard Properties
+SEGMENT: SMB (<10)  |  Properties under subscription: 3
+MASTER SUBSCRIPTION AGREEMENT signed: 2025-12  |  Current term: 1 year(s), annual billing in advance
+RENEWAL: Auto-renews for successive 12-month terms unless 60 days' notice
+NEXT RENEWAL DATE: 2026-12-01
+MODULES: Portfolio Analytics, Lease Abstraction (AI), Tenant Communications
+CONTRACTED ANNUAL FEES (Dec 2025): $43,000
+LIST-PRICE DISCOUNT: 22%
+TERMINATION FOR CONVENIENCE: None
+MOST-FAVOURED-NATION PRICING: No
+CHANGE OF CONTROL: Standard; no consent required
+AI / DATA USE: Customer grants Redwood a non-exclusive licence to use de-identified Customer Documents to train and improve Redwood's models (Section 9.4).
+SLA: Commercially reasonable efforts; no service credits
+HUMAN REVIEW: Standard — low-confidence fields flagged for customer review
+GOVERNING LAW: Delaware

@@ -1,0 +1,51 @@
+EXPERT NETWORK CALL TRANSCRIPT
+Provider: Atlas Expert Network  |  Project: "CRE lease software — commercial diligence"
+Date: 7 May 2026  |  Duration: 52 minutes
+Expert: Former Vice President of Sales, Redwood Software Inc. (employed March 2021 – August 2025)
+Interviewer: Northbeam Private Credit deal team
+
+COMPLIANCE NOTE: The expert has confirmed that they are not bound by any agreement that prevents participation, and will not disclose confidential information of any former employer. The expert left Redwood in August 2025 and may not be aware of later developments. Views are the expert's own. Transcript lightly edited for readability.
+
+----------------------------------------------------------------------
+
+INTERVIEWER: Thanks for making time. Can you start with your role at Redwood and when you left?
+
+EXPERT: Sure. I joined in early 2021 as the second sales leader. When I left in August last year I ran new business — about fourteen quota-carrying reps and the SDR team. Expansion sat with customer success, not with me. I left on reasonable terms; the CRO role went to someone external and I decided to move on.
+
+INTERVIEWER: How would you describe the core buyer and why they buy?
+
+EXPERT: The sweet spot is a mid-market operator with somewhere between twenty and a hundred and fifty properties, mostly office, retail and light industrial. Their pain is that their lease data is in PDFs and spreadsheets and it's wrong. They find out it's wrong when they miss a rent escalation or a renewal option date. Redwood's pitch is "we abstract your whole portfolio in weeks, not months, and keep it current." The analytics and the tenant-comms module are nice, but abstraction is the wedge in nearly every deal.
+
+INTERVIEWER: Management describes the company as "AI-native". How real is that from where you sat?
+
+EXPERT: It's real in the sense that there's a model doing first-pass extraction on every lease. But I'd be careful with the word "native". When I joined, the extraction was a set of prompts on top of a commercial LLM API — honestly, a well-engineered wrapper with a good review UI. The move to their own fine-tuned model started in 2024 and finished after I left, I believe. The model is a fine-tuned open-weight model, not something they trained from scratch.
+
+The bigger point is that on the enterprise tier, every single extraction is checked by a human. There's an analyst team in Manila — about twenty people when I left. That's not a criticism; it's why enterprise customers trust the output. But it means the gross margin on enterprise accounts looks more like tech-enabled services than pure software.
+
+INTERVIEWER: Where does the model struggle?
+
+EXPERT: Ground leases, anything with lots of amendments, and older scanned leases. Standard office and retail leases from the last fifteen years, it's very good. The demos always use clean office leases.
+
+INTERVIEWER: How did win rates and sales cycles trend while you were there?
+
+EXPERT: 2022 and 2023 were great. Average cycle was maybe four months, and we were winning most deals where we got to a proof of concept. In 2024 it started to stretch. By mid-2025 cycles were six to seven months, because budgets for CRE operators got squeezed — office vacancy, refinancing pressure — and procurement got involved in deals that used to be signed by a VP of asset management.
+
+INTERVIEWER: And competition?
+
+EXPERT: LeaseLens is the one that matters. They came in at the low end in 2024 with a self-serve abstraction product and they're priced thirty to forty percent below us. Their accuracy on standard leases is close enough for a lot of mid-market buyers. We lost two or three deals to them in the first half of 2025 that we would have won a year earlier. Some existing customers started using LeaseLens quotes as leverage at renewal.
+
+INTERVIEWER: Did you see discounting to close deals, particularly at quarter-end or year-end?
+
+EXPERT: Quarter-end discounting was normal, single digits. I'm aware — and this is from public chatter, not anything confidential — that year-end 2025 was pushed hard because of the sale process. If you want to understand renewal risk, I'd look at the 2025 Q4 cohort and see what the discount was. Customers remember the price they paid in year one.
+
+INTERVIEWER: Meridian Property Group and Harborview were mentioned as large expansions. Any view?
+
+EXPERT: Meridian was my account originally — I signed the first contract in 2021. Good relationship at the time, but the sponsor there was the head of asset management, who I understand has since left. Meridian is a large, decentralised organisation; regions make their own technology decisions. I'd want to know whether the new regions in the expansion actually chose Redwood or whether head office pushed it on them. Harborview I don't know well.
+
+INTERVIEWER: Last question. If you were lending to this business, what would worry you most?
+
+EXPERT: Two things. One, that the growth story at the end of 2025 depends on a small number of big expansions plus discounted new logos — that's not the same as a broad base growing. Two, the AI moat. Two years ago the model was a differentiator. Today every competitor has a model, and the open-weight models are good enough. What's left is the workflow, the review process and the customer relationships — which are real, but they're not "AI-native" differentiation.
+
+INTERVIEWER: Thank you.
+
+[END OF TRANSCRIPT]

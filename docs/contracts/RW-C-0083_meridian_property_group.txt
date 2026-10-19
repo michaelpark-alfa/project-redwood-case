@@ -1,0 +1,21 @@
+REDWOOD SOFTWARE INC. — CONTRACT ABSTRACT
+Prepared by: Redwood Legal Ops (data room upload, May 2026)
+Contract ID: RW-C-0083
+
+CUSTOMER: Meridian Property Group
+SEGMENT: Enterprise (150+ properties)  |  Properties under subscription: 180
+MASTER SUBSCRIPTION AGREEMENT signed: 2021-03  |  Current term: 1 year(s), annual billing in advance
+RENEWAL: Manual renewal; requires signed order form
+NEXT RENEWAL DATE: 2027-03-01
+MODULES: Lease Abstraction (AI), Portfolio Analytics, Tenant Communications
+CONTRACTED ANNUAL FEES (Dec 2025): $2,100,000
+LIST-PRICE DISCOUNT: 0%
+TERMINATION FOR CONVENIENCE: Customer may terminate the Q4 2025 Multi-Site Addendum for convenience on 30 days' notice at any time within 90 days after addendum go-live (go-live 2026-02-02). Base subscription unaffected.
+MOST-FAVOURED-NATION PRICING: No
+CHANGE OF CONTROL: Standard; no consent required
+AI / DATA USE: Redwood shall not use Customer Documents or derived data to train, fine-tune or evaluate any machine-learning model (Section 9.4, negotiated rider).
+SLA: Commercially reasonable efforts; no service credits
+HUMAN REVIEW: Enterprise tier — every AI extraction reviewed by Redwood analysts before release
+GOVERNING LAW: Colorado
+AMENDMENTS: Multi-Site Addendum signed 2025-12-19 expanding coverage to additional properties.
+BILLING NOTE: Addendum fees include a one-time data migration and portfolio onboarding fee of $0.5M, invoiced in four quarterly instalments within the first-year subscription line.

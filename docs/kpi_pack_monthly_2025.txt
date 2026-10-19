@@ -1,0 +1,65 @@
+REDWOOD SOFTWARE INC. — MONTHLY KPI PACK, FY 2025
+Source: Revenue Operations (ARR schedule v14), uploaded to data room May 2026
+Unaudited. Figures in $M unless stated. NRR column uses the management methodology (see notes).
+
+MONTHLY ARR ROLL-FORWARD
+
+Month     Open ARR   New Logo   Expansion   Churn    Close ARR   Logos   New   Lost   NRR (mgmt)
+Jan-25     13.40      0.11       0.05       0.00      13.56      106      2      0     108%
+Feb-25     13.56      0.49       0.05       0.00      14.10      112      6      0     108%
+Mar-25     14.10      0.21       0.05       0.00      14.36      116      4      0     109%
+Apr-25     14.36      0.33       0.05      (0.11)     14.63      116      2      2     107%
+May-25     14.63      0.13       0.05       0.00      14.81      118      2      0     107%
+Jun-25     14.81      0.34       0.05      (0.28)     14.92      120      5      3     104%
+Jul-25     14.92      0.19       0.05      (0.20)     14.96      122      4      2     103%
+Aug-25     14.96      0.03       0.05       0.00      15.04      123      1      0     103%
+Sep-25     15.04      0.09       0.05      (0.21)     14.97      124      2      1     102%
+Oct-25     14.97      0.25       0.05       0.00      15.27      129      5      0     104%
+Nov-25     15.27      0.67       0.05      (0.10)     15.89      136      8      1     105%
+Dec-25     15.89      0.26       2.05       0.00      18.20      142      6      0     118%
+
+FY25 total            3.10       2.60      (0.90)                        47      9
+
+NOTES
+1. NRR (mgmt) = trailing-twelve-month ARR of the customer cohort active twelve months earlier, divided by that cohort's opening ARR. Per the management workbook, the calculation includes contracted price uplifts effective the following month and excludes churn from customers lost through M&A or portfolio sale ("non-controllable churn"). December reflects the Meridian Property Group and Harborview Commercial Partners Multi-Site Addenda (+$2.0M combined) signed 19 December 2025.
+2. Churn is recorded in the month the contract ends, not the month notice is given. Notice was received for the September churn (Ashgrove Realty) in June 2025.
+3. New-logo ARR in Q4 includes year-end promotional pricing (see Board minutes, 11 December 2025).
+4. Expansion outside the December addenda is recorded at a straight-line $0.05M per month. Revenue Operations allocates annual price uplifts evenly; actual uplift timing follows renewal dates.
+
+SALES PIPELINE (end of month, weighted, $M ARR)
+
+Month     Weighted pipeline   Stage 4+ (contract)   Avg sales cycle (days, closed-won)
+Mar-25          2.9                 0.8                     128
+Jun-25          3.1                 0.7                     161
+Sep-25          3.6                 0.9                     187
+Dec-25          2.2                 0.4                     214
+
+Average discount to list price on closed-won new logos: H1 2025 4.5%; Q3 2025 4.3%; Q4 2025 19.3%.
+
+HEADCOUNT (end of quarter)
+
+Quarter   R&D   S&M   CS & Ops   G&A   Total
+Q1-25      36    30      22       10      98
+Q2-25      38    32      26       11     107
+Q3-25      40    33      29       12     114
+Q4-25      41    33      32       12     118
+
+PRODUCT USAGE
+
+Quarter   Leases processed (k)   Avg extraction confidence   Share of fields sent to human review
+Q1-25          61                      0.91                          17%
+Q2-25          74                      0.92                          16%
+Q3-25          88                      0.92                          18%
+Q4-25         131                      0.90                          22%
+
+Q4 2025 leases processed include the backfill of 38k historical leases for the Meridian and Harborview onboarding projects. Human-review share rose in Q4 because those portfolios contain a high proportion of ground leases and amended leases.
+
+SUPPORT
+
+Quarter   Tickets opened   P1 incidents   Median time to resolution (hrs)   CSAT
+Q1-25         1,840             2                   11                     4.4
+Q2-25         2,015             1                   12                     4.3
+Q3-25         2,390             4                   17                     4.0
+Q4-25         3,105             3                   21                     3.9
+
+The Q3 2025 rise in P1 incidents followed the migration of the lease-abstraction engine from a third-party LLM API to the self-hosted fine-tuned model (completed August 2025).
